@@ -1,1 +1,3 @@
-print('gg')
+import pygame
+
+pygame.init()
